@@ -18,6 +18,6 @@ public class ScrHola : MonoBehaviour
 
     void Saluda()
     {
-        print("Hola!");
+       // print("Hola!");
     }
 }
